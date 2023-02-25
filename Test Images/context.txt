@@ -1,0 +1,1 @@
+Once you have placed a '.pdf' file in pdf folder, the code will convert the pdf into pngs and will store them in this directory.
