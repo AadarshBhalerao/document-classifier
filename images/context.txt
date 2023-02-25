@@ -1,0 +1,7 @@
+This Directory should contain sub directories. Meaning if you want to use this code to classify banking documents (Eg: Cheques, Passbook, etc).
+The Dir structure should be:
+images:
+  1. Cheques
+  2. Passbook
+  3. Supporting documents
+The subsequent folders then should contain images in .png format.
