@@ -1,0 +1,2 @@
+Once you have trained and saved the model, should you wish to the model to classify on a new pdf (Production level) the pdf file should be placed in this directory.
+Format should be: '.pdf'
